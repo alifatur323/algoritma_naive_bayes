@@ -1,0 +1,83 @@
+[06-Apr-2018 08:17:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'trainit_utama'@'localhost' to database 'trainit_algoritma_bayes' in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 2
+[06-Apr-2018 08:17:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 26
+[06-Apr-2018 08:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(NULL)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'trainit_utama'@'localhost' to database 'trainit_algoritma_bayes' in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 2
+[06-Apr-2018 08:18:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 26
+[06-Apr-2018 08:18:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(NULL)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'trainit_utama'@'localhost' to database 'trainit_algoritma_bayes' in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 2
+[06-Apr-2018 08:18:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 26
+[06-Apr-2018 08:18:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(NULL)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
+[06-Apr-2018 08:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/trainit/public_html/demo/algoritma/bayes/class.php:14
+Stack trace:
+#0 /home/trainit/public_html/demo/algoritma/bayes/class.php(27): utama->perulangan(false)
+#1 /home/trainit/public_html/demo/algoritma/bayes/gejala.php(9): gejala->tampil_gejala()
+#2 /home/trainit/public_html/demo/algoritma/bayes/perhitungan.php(63): include('/home/trainit/p...')
+#3 {main}
+  thrown in /home/trainit/public_html/demo/algoritma/bayes/class.php on line 14
